@@ -1,6 +1,3 @@
-Below is the full documentation for your script in Markdown format. It includes a detailed explanation of all arguments, their meanings, examples, and information about where saved settings are stored.
-
----
 
 # Script Documentation
 
