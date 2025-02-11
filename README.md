@@ -103,9 +103,7 @@ file2.go
 <contents of file2.go>
 ```
 ======
-```
 
----
 
 ### Example 2: Ignore Files by Pattern
 
@@ -116,13 +114,13 @@ Ignore temporary files (`.tmp`) during processing.
 ```
 
 **Output in Clipboard**:
-```
+
 file1.ts
 ```typescript
 <contents of file1.ts>
 ```
 ======
-```
+
 
 ---
 
@@ -135,7 +133,7 @@ Run `check-ts-errors` for `.ts` files and `gofmt` for `.go` files.
 ```
 
 **Output in Clipboard**:
-```
+
 file1.ts
 ```typescript
 <contents of file1.ts>
@@ -148,8 +146,6 @@ file2.go
 ```
 Executable Output for file2.go
 ======
-```
-
 ---
 
 ### Example 4: Save and Reuse Configurations
